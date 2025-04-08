@@ -1,9 +1,9 @@
 
 # Raspberry-SLAM-Robot
 <p align="center">
-  <img src="./images/实物图2.png" width="300" height="300">
-  <img src="./images/提取特征点.png" width="300" height="300">
-  <img src="./images/真实建图.png" width="300" height="300">
+  <img src="./images/实物图2.png" width="250" height="220">
+  <img src="./images/提取特征点.png" width="250" height="220">
+  <img src="./images/真实建图.png" width="250" height="220">
 </p>
 
 ## 项目简介
